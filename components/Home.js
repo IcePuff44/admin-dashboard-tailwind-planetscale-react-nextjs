@@ -8,27 +8,27 @@ import BarChart from "./BarChart";
 const data = [
   {
     id: 1,
-    title: "Carbon Footprint",
-    value: "2,412,314t",
-    percent: "-45%",
+    title: "A",
+    value: "1,000,000",
+    percent: "-15%",
     main: true
   },
   {
     id: 2,
-    title: "Emissions by spinning",
-    value: "72,3694t",
-    percent: "-60%",
+    title: "B",
+    value: "100,000",
+    percent: "-30%",
   },
   {
     id: 3,
-    title: "Emission By Transportation",
-    value: "361,874t",
+    title: "C",
+    value: "10,000",
     percent: "0.00",
   },
   {
     id: 4,
-    title: "Emission By Carding",
-    value: "241,231t",
+    title: "D",
+    value: "1,000",
     percent: "+0.6%",
     extra: "From 4.6% ",
   },
