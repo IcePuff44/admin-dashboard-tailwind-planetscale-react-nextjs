@@ -19,7 +19,7 @@ export const options = {
 export const data = {
   maintainAspectRatio: true,
   responsive: true,
-  labels: ["Spinning", "Transportation", "Carding", "Heating & Cooling"],
+  labels: ["A", "B", "C", "D"],
   datasets: [
     {
       data: [22, 16, 27, 35],
