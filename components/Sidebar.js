@@ -1,6 +1,5 @@
 "use client";
 import React, { useState } from "react";
-import logo from "../public/logo.png";
 import { Inter } from "next/font/google";
 import {
   Up,
@@ -75,9 +74,7 @@ const Sidebar = () => {
               <p>Hi</p>
             </li>
             <l1 className="">
-              {/* <p className="text-xl p-2 px-5 pb-14 font-normal font-sans">
-                Greenstitch
-              </p> */}
+              {}
             </l1>
 
             <l1>
