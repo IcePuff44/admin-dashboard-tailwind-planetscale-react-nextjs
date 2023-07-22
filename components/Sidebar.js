@@ -72,17 +72,7 @@ const Sidebar = () => {
         <div className="h-full pb-3 py-4 overflow-y-auto flex flex-col justify-between pt-0 mt-0">
           <ul className="space-y-2">
             <li className="pb-14 w-full pt-3 z-10 bg-white sticky top-0 left-0">
-              <Image
-                src={logo}
-                alt="logo"
-                width={150}
-                height={45}
-                style={{
-                  position: "absolute",
-                  left: "18px",
-                  top: "24px",
-                }}
-              />
+              <p>Hi</p>
             </li>
             <l1 className="">
               {/* <p className="text-xl p-2 px-5 pb-14 font-normal font-sans">
