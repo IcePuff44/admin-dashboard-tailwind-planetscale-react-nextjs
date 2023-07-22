@@ -1,5 +1,5 @@
 import { Top1, Top2, Top3 } from "@/public/icons";
-import photo from "../public/image.svg";
+//import photo from "../public/image.svg";
 import Image from "next/image";
 
 const Navbar = () => {
@@ -38,12 +38,7 @@ const Navbar = () => {
         <Top1 />
         <Top2 />
         <Top3 />
-        <Image
-            src={photo}
-            alt="Photo"
-            width={40}
-            className="-mt-2"
-        />
+       
       </div>
     </div>
   );
