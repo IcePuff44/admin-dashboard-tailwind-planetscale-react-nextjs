@@ -50,22 +50,22 @@ export const data = {
   labels,
   datasets: [
     {
-      label: "Spinning",
+      label: "A",
       data: labels.map(() => faker.datatype.number({ min: 0, max: 50000 })),
       backgroundColor: "rgba(87, 204, 120, 1)",
     },
     {
-      label: "Transportation",
+      label: "B",
       data: labels.map(() => faker.datatype.number({ min: 0, max: 50000 })),
       backgroundColor: "rgba(85, 219, 219, 1)",
     },
     {
-      label: "Carding",
+      label: "C",
       data: labels.map(() => faker.datatype.number({ min: 0, max: 50000 })),
       backgroundColor: "rgba(226, 255, 50, 1)",
     },
     {
-      label: "Heating & Cooling",
+      label: "D",
       data: labels.map(() => faker.datatype.number({ min: 0, max: 50000 })),
       backgroundColor: "rgba(254, 193, 2, 1)",
     },
