@@ -11,7 +11,7 @@ const data = [
     title: "A",
     value: "1,000,000",
     percent: "-15%",
-    main: true
+    //main: true
   },
   {
     id: 2,
