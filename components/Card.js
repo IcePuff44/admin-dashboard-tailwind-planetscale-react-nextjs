@@ -14,7 +14,7 @@ const Card = ({ title, value, percent, extra, main }) => {
           }`}
         >
           {" "}
-          CO2e
+          count
         </p>
         <div className="flex flex-row justify-center items-center">
           <div className=" bg-[#DCFFF5] rounded-xl px-4 py-2 my-5">
