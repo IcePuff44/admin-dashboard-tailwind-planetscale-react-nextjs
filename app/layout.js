@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Greenstitch",
-  description: "Greenstitch Dashboard",
+  title: "HelloWorld",
+  description: "HelloWorld Dashboard",
 };
 
 export default function RootLayout({ children }) {
