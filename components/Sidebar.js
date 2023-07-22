@@ -71,7 +71,7 @@ const Sidebar = () => {
         <div className="h-full pb-3 py-4 overflow-y-auto flex flex-col justify-between pt-0 mt-0">
           <ul className="space-y-2">
             <li className="pb-14 w-full pt-3 z-10 bg-white sticky top-0 left-0">
-              <p>Hi</p>
+              <p><b>HELLOWORLD</b></p>
             </li>
             <l1 className="">
               {}
