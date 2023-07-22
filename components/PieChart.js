@@ -6,7 +6,7 @@ const PieChart = () => {
     <div className="bg-white w-1/3 my-1 rounded-xl shadow-md pb-4">
       <div className="flex flex-col">
         <div className="w-full justify-center text-center p-3">
-          <p className="font-bold text-xl mt-2">Top emissions by type</p>
+          <p className="font-bold text-xl mt-2">Types</p>
         </div>
         <div className=" w-full h-full py-2 flex justify-center items-center">
           <Nutt />
@@ -15,28 +15,28 @@ const PieChart = () => {
           <div className="flex flex-row justify-between w-[190px]">
             <div className="flex flex-row gap-1 items-center">
               <div className="rounded-full bg-[#57CC78] w-[9px] h-[9px] "></div>
-              <p className="text-xs font-semibold">Spinning</p>
+              <p className="text-xs font-semibold">A</p>
             </div>
             <p className="text-xs font-semibold">22%</p>
           </div>
           <div className="flex flex-row justify-between w-[190px]">
             <div className="flex flex-row gap-1 items-center">
               <div className="rounded-full bg-[#55DBDB] w-[9px] h-[9px] "></div>
-              <p className="text-xs font-semibold">Transportation</p>
+              <p className="text-xs font-semibold">B</p>
             </div>
             <p className="text-xs font-semibold">16%</p>
           </div>
           <div className="flex flex-row justify-between w-[190px]">
             <div className="flex flex-row gap-1 items-center">
               <div className="rounded-full bg-[#E2FF32] w-[9px] h-[9px] "></div>
-              <p className="text-xs font-semibold">Carding</p>
+              <p className="text-xs font-semibold">C</p>
             </div>
             <p className="text-xs font-semibold">27%</p>
           </div>
           <div className="flex flex-row justify-between w-[190px]">
             <div className="flex flex-row gap-1 items-center">
               <div className="rounded-full bg-[#FEC102] w-[9px] h-[9px] "></div>
-              <p className="text-xs font-semibold">Heating & Cooling</p>
+              <p className="text-xs font-semibold">D</p>
             </div>
             <p className="text-xs font-semibold">35%</p>
           </div>
